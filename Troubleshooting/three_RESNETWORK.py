@@ -87,7 +87,6 @@ def TroubleshootCircuit(voltage, resistances):
     
         
     
-CalculateExpectedTPValues()
-
+ 
 
     
